@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/random-topics/__init__.py
+src/random-topics/random-topics.py
+src/random_topics.egg-info/PKG-INFO
+src/random_topics.egg-info/SOURCES.txt
+src/random_topics.egg-info/dependency_links.txt
+src/random_topics.egg-info/top_level.txt
