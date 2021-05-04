@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: random-topic
+Version: 0.1.2
+Summary: module to fetch random topics for conversation
+Home-page: https://github.com/johan-naizu/random_topic
+Author: Johan Naizu
+Author-email: johan@naizu.in
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/johan-naizu/random_topic/issues
+Description: ![random_topic](https://i.imgur.com/1248yt1.png)
+        
+        # random_topic
+        Fetch random topics to start conversations.
+        For Async version visit [here](https://github.com/johan-naizu/aiotopics)
+        
+        ![Downloads](https://pepy.tech/badge/random_topic) ![PyPI](https://img.shields.io/pypi/v/random_topic) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/random_topic) ![PyPI - License](https://img.shields.io/pypi/l/random_topic)
+        ## Installation
+        ```pip
+        pip install random_topic
+        ```
+        ## Usage
+        ```python
+        import random_topic
+        topic=random_topic.get_topic()
+        print(topic)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
